@@ -1,0 +1,59 @@
+Otero Parking Development Manual
+
+-oteroparking folder:
+a folder that contains all the files of my project/website i am updating 
+
+-License: here is the file where tells what license i am using at this project
+
+-README.MD: a file containing the main information of my project.
+
+-accountcreationfolder: a folder that contains the page where you can create your account with the index.html file and the 
+cadastroconcluido file that also have a index.html when you finalize your account creation and this page only appears when 
+this action happens
+
+-accountsetup: this folder is where is located the page where you config your account and is subdivide in:
+
+change account: a folder containing a index.html where you switch your account.
+
+deleteaccount: a folder containing a index.html where the place you delete your account.
+
+editappearence: a folder containing a index.hmtl where you edit the site appearence once logged in the site
+
+editinfos: a folder containing a page where you update you infos you give in the account create folder.
+
+editplansby: a folder containing a page where you can edit your parking subcription , cancel subscription and create a new
+one if necessary.
+
+editsecurity: a folder where a index.html is designed to have a page where you edit the security site setup.
+
+logoff: a folder containing a hmtl page where alerts you log off of your account.
+
+-acccountview: a folder containing all infos of your account.
+
+-clietservice: a folder where you can acess a portal in index.html where are all the client service options if you have 
+some questions about the products and futurely i am going to design a FAQ about these questions.
+
+-documentation: a folder containing all documentation informing the project´s details.
+
+-loginpage: a folder containing a index.hmtl page that serves as a common login to acess your account.
+
+-mainpage: a folder containing the mainpage of the oteroparking website that shows the products and subscriptions offered 
+and the contact forms in the page footer while the products are located at the body of the page you can find the main infos about them 
+
+-messages: a folder containing the chat page of the website where are dispayed messages between
+ the user and a chatbot(is gonna be impelmented in future)
+
+-paymentstatus: a folder you can find a page in index.html where contains a page that tells you the status of your payment.
+
+-statusdereserva: a folder that contains a index.html where is designed to be a page showing how is the status of your
+parking 
+
+-userpage: a folder containing a hmtl designed to be where the user acess after login and acess a menu containing all 
+options describe before to the user use the fictional service offered.
+
+-styles.css: a file containing all design setup i created to create the design of all pages
+
+-script.js: a file where will be used to create the interactivy of the website
+
+
+
